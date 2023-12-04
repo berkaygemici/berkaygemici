@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@berkaygemici](https://medium.com/@berkaygemici)
 
-- 💬 Ask me about **Python and it's frameworks ( Flask, Django)**
+- 💬 Ask me about **Python and it's frameworks ( Flask, Django, Pandas ....)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

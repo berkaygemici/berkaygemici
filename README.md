@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay Gemici</h1>
 <h3 align="center">Eager developer with a love for APIs and backend magic, turning code into seamless experiences.</h3>
 
-- 🔭 I’m currently working on [picture-to-video](https://github.com/berkaygemici/picture-to-video)
+- 🔭 I’m currently working on Orbit AI - Chatbot Assistant
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 

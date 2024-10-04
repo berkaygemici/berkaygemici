@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 
-- 📝 I regularly write articles on [https://medium.com/@berkaygemici](https://medium.com/@berkaygemici)
+-🌐  Also visit me on www.berkaygemici.com.tr
 
 - 💬 Ask me about **Python and it's frameworks ( Flask, Django, Pandas ....)**
 
